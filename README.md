@@ -20,3 +20,6 @@ a BWAPI Client along with BWAPI v3.7.4 in order to generate a .bwta file.
 2. A bot that utilizes the stripped down version of BWTA can then run normally with BWAPI using the pregenerated .bwta file.
 
 ###### For ideas and suggestions, please reply to the forum topic at: http://www.broodwarai.com/forums/viewtopic.php?f=9&t=1223
+
+
+###### The original BWTA source code is located at: https://code.google.com/p/bwta/
