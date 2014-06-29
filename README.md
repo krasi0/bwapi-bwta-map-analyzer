@@ -1,12 +1,11 @@
 bwapi-bwta-map-analyzer
 =======================
 
-### Standalone BWTA based Brood War map(terrain) analyzer (BWAPI v3.7.4 compatible)
+### Standalone BWTA based Brood War map (terrain) analyzer (BWAPI v3.7.4 compatible)
 
 ##### This project provides two utilities / tools:
 1. bwtaMapAnalyzerV1_0.exe - a standalone BWAPI Client based map analyzer, which spits a .bwta file as a result after running.
-2. stripped BWTA source code that doesn't support terrain analysis (this is done by 1), but supports everything else. It doesn't depend
-on CGAL, boost, tinyxml, etc.
+2. stripped BWTA source code that doesn't support terrain analysis generation (i.e. creating the .bwta file is done by 1), but supports everything else - actually using BWTA by a bot. This stripped down version doesn't depend on CGAL, boost, tinyxml, etc.
 
 ##### Why are the above tools needed?
 BWTA hasn't been maintained for about two years already and it's no longer compatible with the new BWAPI version
